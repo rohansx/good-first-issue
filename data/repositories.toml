@@ -602,6 +602,7 @@ repositories = [
   'github.com/ripple/rippled',
   'github.com/rjsf-team/react-jsonschema-form',
   'github.com/rodrigo-arenas/Sklearn-genetic-opt',
+  'github.com/rohansx/logic-gate-simulator',
   'github.com/rstudio/keras',
   'github.com/rubberduck-vba/Rubberduck',
   'github.com/rubocop-hq/rubocop',
@@ -810,5 +811,5 @@ repositories = [
   'github.com/zulip/zulip',
   'github.com/ZupIT/charlescd',
   'github.com/ZupIT/ritchie-cli',
-  'github.com/ZupIT/ritchie-formulas'
+  'github.com/ZupIT/ritchie-formulas',
  ]
